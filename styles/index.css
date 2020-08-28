@@ -9,10 +9,9 @@ html {
 body {
    font-family: 'Poppins', sans-serif;
    font-size: 13pt;
-   background-color: #efefef;
    padding: 10px;
    margin: 0;
-   background-image: url("/resimg/bckgrd.jpeg");
+   background: #efefef url("/resimg/bckgrd.jpeg");
    height: 100%;
    background-repeat: no-repeat;
    background-position: center;
