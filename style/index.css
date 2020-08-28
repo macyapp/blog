@@ -11,6 +11,7 @@ body {
    background-color: #efefef;
    padding: 10px;
    margin: 0;
+   background-image: url("/resimg/bckgrd.jpeg");
 }
 
 h1 {
